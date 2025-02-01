@@ -1,1 +1,4 @@
-As a new marketing associate at Google, you have been asked to familiarize yourself with the metrics in Google Analytics that are available for the Google Merchandise Store. To help you do this, your manager has given you a list of metrics for user acquisition, engagement, and monetization that you can view under the Life cycle section of the tool. Normally, someone reviews these metrics on a monthly basis.
+Used Google Analytics to analyze user acquisition, engagement, and monetization metrics for the Google Merchandise Store to increase engagement rates by an average of 80% with Google.
+
+•	Acquired data-driven actions by leveraging Life Cycle section metrics, developing an average purchase revenue of $2.56 improvement in the user's action over the 6 months period with “Shop by Brand” items being at the top.
+
